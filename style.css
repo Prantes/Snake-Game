@@ -41,10 +41,12 @@ body{
 }
 
 .play-board .food {
-    background: #FF003D;
+    background-image: url(fruta.png);
+    background-repeat:no-repeat;
 }
 .play-board .head {
     background: #00ff4c;
+    border-radius: 50%;
 }
 
 .controls {
